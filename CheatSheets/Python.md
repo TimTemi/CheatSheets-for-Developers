@@ -1,31 +1,32 @@
-##Python
+## Python
 Python is a high-level, interpreted and object-oriented programming language.
 It's fundamental principles emphasizes with the use of significant indentation.
 Python was created by Guido Van Rossum.
 Python can be used for:
-*`web development`
-*`GUI development`
-*`Scientific and Numeric`
-*`Software development`
-*`System Administration`
+
+* `web development`
+* `GUI development`
+* `Scientific and Numeric`
+* `Software development`
+* `System Administration`
 Python is most popular for it's use for Artificial Intelligence, Machine Learning and Data Analysis.
  
-###Download Python from:
+### Download Python from:
 https://www.python.org/
 
-###Steps on how to install Python on Windows OS:
+### Steps on how to install Python on Windows OS:
 https://www.tutorialspoint.com/how-to-install-python-in-windows
 
-###Steps on how to install Python on Linux OS:
+### Steps on how to install Python on Linux OS:
 https://www.scaler.com/topics/python/install-python-on-linux/
 
-##Sample of Python program
+## Sample of Python program
 ```
 print('Hello world!')
 ```
 * The Python print() function helps in printing the specified message onto the screen, or any other standard output device.
 
-##Basic Data Types
+## Basic Data Types
 
 | Data-types | Type|
 |----|----|
@@ -62,7 +63,7 @@ my_set = {1.0, "Hello", (1, 2, 3)}
 ```
 
 
-###Variables, Assignment and creating user input
+### Variables, Assignment and creating user input
 * A variable is a string of characters and numbers associated with a piece of information.
 * The assignment operator,is denoted by the `=` symbol, is the operator that is used to assign values to variables in Python.
 * Creating user input is denoted with the `input` keyword.
